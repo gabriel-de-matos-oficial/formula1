@@ -10,7 +10,7 @@ html{scroll-behavior:smooth}
   --light:#f7f4f1;
   --white:#ffffff;
   --gold:#ffd700;
-  --silver:#c0c0c0;
+  --silver:#c0c0c0; 
   --bronze:#cd7f32;
   --grad:linear-gradient(135deg,#e10600 0%,#ff4d00 100%);
   --grad-dark:linear-gradient(135deg,#15151e 0%,#38383f 100%);
